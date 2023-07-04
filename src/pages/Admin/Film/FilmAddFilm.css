@@ -1,0 +1,9 @@
+.floating-label-bg-transparent label
+{
+    color: white !important;
+}
+
+.floating-label-bg-transparent label::after
+{
+    background-color: transparent !important;
+}

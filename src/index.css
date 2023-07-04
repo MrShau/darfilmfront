@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap');
+
+.ff-oswald 
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+.ff-roboto
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.br-0
+{
+    border-radius: 0;
+}
+
+.bs-left-0
+{
+    border-left: 0;
+}

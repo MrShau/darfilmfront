@@ -1,0 +1,20 @@
+.btn-search
+{
+    border: 1px solid white;
+    border-left: 0;
+    background-color: transparent;
+    transition: all .5s;
+    background-color: black;
+    
+}
+
+.btn-search:hover
+{
+    border-color: white;
+    background-color: #212529;
+}
+
+.form-search::placeholder
+{
+    color: #dee2e6;
+}
